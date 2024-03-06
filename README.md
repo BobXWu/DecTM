@@ -1,3 +1,5 @@
+## **Check our latest topic modeling toolkit [TopMost](https://github.com/bobxwu/topmost) !**
+
 # Code for Discovering Topics in Long-tailed Corpora with Causal Intervention
 
 [ACL2021 Findings](https://aclanthology.org/2021.findings-acl.15.pdf)
